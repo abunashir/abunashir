@@ -5,6 +5,6 @@
 
 Software Engineer with a decade of development experience, including leading projects and teams in different environments. I am passionate about engineering, data, and supporting others to grow their skills.
 
-Currently, I am working at the engineering org of trivago. Mainly, working with engineers and managers to reduce long-term technical depth, and support teams to design and develop systems at scale.
+Currently, I am working at the engineering org of [Personio](https://www.personio.com). Mainly, working with engineers and managers to design and develop systems at scale and reduce long-term technical depth.
 
 If you are interested in working with me, talk about tech or just to connect then please feel free to get in touch!
